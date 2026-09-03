@@ -45,3 +45,5 @@ Documentation will include
 • How to Use
 
 • Planned Updates
+
+@ 2026 Melodi Clark
